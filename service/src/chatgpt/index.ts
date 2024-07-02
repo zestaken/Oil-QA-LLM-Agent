@@ -28,7 +28,7 @@ const ErrorCodeMessage: Record<string, string> = {
   503: '[OpenAI] 服务器繁忙，请稍后再试 | Server is busy, please try again later',
   504: '[OpenAI] 网关超时 | Gateway Time-out',
   500: '[OpenAI] 服务器繁忙，请稍后再试 | Internal Server Error',
-}
+} 
 
 let auditService: TextAuditService
 const _lockedKeys: { key: string; lockedTime: number }[] = []

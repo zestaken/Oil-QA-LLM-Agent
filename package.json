@@ -1,13 +1,13 @@
 {
-  "name": "chatgpt-web",
+  "name": "Oil_QA-web",
   "version": "2.13.3",
   "private": false,
-  "description": "ChatGPT Web",
-  "author": "ChatGPT Web Contributors <dev@chatgpt-web.dev>",
+  "description": "Oil_QA Web",
+  "author": "Oil_QA Web Contributors <dev@Oil_QA-web.dev>",
   "keywords": [
-    "chatgpt-web",
-    "chatgpt",
-    "chatbot",
+    "Oil_QA-web",
+    "Oil_QA",
+    "Oil_qa",
     "vue"
   ],
   "scripts": {
